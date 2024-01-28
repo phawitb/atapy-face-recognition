@@ -1,7 +1,9 @@
 # Face-Recognition
-Face Recognition Using keras_FaceNet
+## Face Recognition Using keras_FaceNet
 
-pip install -r requirements.txt
+### pip install -r requirements.txt
 
-https://drive.google.com/drive/folders/12aMYASGCKvDdkygSv1yQq8ns03AStDO_
+### data--class1--img1.jpg,img2.jpg,...
+###     --class2--img1.jpg,img2.jpg,...
+
 
