@@ -10,12 +10,6 @@ git clone https://github.com/phawitb/atapy-face-recognition.git
 
 
 ## Install Package
-#### Use anaconda
-```python
-create anaconda envirionment
-conda create -n atapyfacerecognition python=3.9
-conda activate atapyfacerecognition
-```
 #### Use anaconda from atapy-face-recognition.yml
 ```
 conda env create -f atapy-face-recognition.yml
@@ -99,4 +93,8 @@ python 6.PredictSimple.py
 ```
 conda env export -n atapy-face-recognition -f atapy-face-recognition.yml
 ```
-
+```python
+create anaconda envirionment
+conda create -n atapyfacerecognition python=3.9
+conda activate atapyfacerecognition
+```
