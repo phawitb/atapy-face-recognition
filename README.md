@@ -16,6 +16,9 @@ create anaconda envirionment
 conda create -n atapyfacerecognition python=3.9
 conda activate atapyfacerecognition
 ```
+```
+conda env export -n atapy-face-recognition -f atapy-face-recognition.yml
+```
 
 #### Use pip 
 ```
