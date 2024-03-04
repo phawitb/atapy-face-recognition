@@ -10,7 +10,7 @@ git clone https://github.com/phawitb/atapy-face-recognition.git
 
 
 ## Install Package
-#### Use anaconda from atapy-face-recognition.yml
+#### Use anaconda
 ```
 cd atapy-face-recognition
 conda env create -f atapy-face-recognition.yml
