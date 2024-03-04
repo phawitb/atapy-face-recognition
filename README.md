@@ -26,6 +26,7 @@ pip install -r requirements.txt
 ## Prepare Data
 #### 1.Download Data 
 ```
+cd atapy-face-recognition
 python 0.Download_data_from_google_drive.py
 ```
 #### 2.Extract zip file
