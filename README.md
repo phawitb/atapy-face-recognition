@@ -29,7 +29,7 @@ pip install -r requirements.txt
 cd atapy-face-recognition
 python 0.Download_data_from_google_drive.py
 ```
-#### 2.Extract zip file
+#### 2.Extract data.zip file >> floder original_data
 #### 3.Split data to train test
 ```
 python 1.Split_train_test.py
